@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YumiLeeTicTacToe4</string>
+    <string name="score">Score</string>
+    <string name="player1">Player1:</string>
+    <string name="player2">Player2:</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="new_game_menu">NEW GAME</string>
+</resources>

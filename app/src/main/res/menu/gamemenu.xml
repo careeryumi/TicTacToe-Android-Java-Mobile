@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/newGameMenu"
+        android:title="@string/new_game_menu"
+        app:showAsAction="never" />
+    <item android:id="@+id/scoreBoard"
+        android:title="SCORE/PLAYER EDIT/DELETE"
+        app:showAsAction="never" />
+    <item android:id="@+id/selectPlayer"
+        android:title="SELECT PLAYER"
+        app:showAsAction="never" />
+    <item android:id="@+id/addPlayer"
+        android:title="ADD PLAYER"
+        app:showAsAction="never" />
+</menu>

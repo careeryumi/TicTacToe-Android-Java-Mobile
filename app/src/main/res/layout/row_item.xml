@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="100">
+
+    <TextView
+        android:id="@+id/textViewName"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_weight="25"
+        android:textAlignment="center"
+        android:text="textListItemPlayerName"/>
+
+    <TextView
+        android:id="@+id/textViewWins"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_weight="25"
+        android:textAlignment="center"
+        android:text="textListItemPlayerWins"/>
+
+    <TextView
+        android:id="@+id/textViewLosses"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_weight="25"
+        android:textAlignment="center"
+        android:text="textListItemPlayerLosses"/>
+
+    <TextView
+        android:id="@+id/textViewTies"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_weight="25"
+        android:textAlignment="center"
+        android:text="textListItemPlayerTies"/>
+
+</LinearLayout>
+
+
